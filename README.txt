@@ -3,6 +3,5 @@ This is the modification of the file into the read Me file.
 
 here is readme
 
-the cake is a lie!
-
-This is the modification in the readme file
+This 4:41 PM 7/19/2017 
+This is the different commits
